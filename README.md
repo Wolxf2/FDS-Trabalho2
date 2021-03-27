@@ -18,4 +18,4 @@ FUS6C00,VW,TIGUAN,2021,220000.0,12
 
 Este tipo de arquivo é gerado por diversos aplicativos muito utilizados no mercado entre os quais se destaca o MS Excel. A leitura deste tipo de arquivo em Java, entretanto, pode ser trabalhosa. Para facilitar esta atividade no contexto do projeto "Apache" foi criada uma API para a leitura deste tipo de arquivo, a "Apache Commons CSV".
 
-Para execurtar o programa use o código: java -jar ./target/FDS-Trabalho2-1.0-SNAPSHOT.jar
+Para executar o programa use o código: java -jar ./target/FDS-Trabalho2-1.0-SNAPSHOT.jar
